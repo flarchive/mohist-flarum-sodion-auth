@@ -1,0 +1,31 @@
+{
+    "name": "mohist/flarum-sodion-auth",
+    "description": "SodionAuth api for flarum.",
+    "version": "v0.0.2",
+    "type": "flarum-extension",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "logos",
+            "email": "1102280066@qq.com"
+        }
+    ],
+    "require": {
+        "../sodion-auth": "^0.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mohist\\SodionAuthFlarum\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "SodionAuth Flarum",
+            "icon": {
+                "name": "fas fa-smile",
+                "backgroundColor": "#238c59",
+                "color": "#fff"
+            }
+        }
+    }
+}
