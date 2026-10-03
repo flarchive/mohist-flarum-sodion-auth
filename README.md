@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of mohist/flarum-sodion-auth.** Not for installation: use [Packagist](https://packagist.org/packages/mohist/flarum-sodion-auth) or the [upstream repository](https://github.com/Mohist-Community/SodionAuthFlarum).
 
-**0** versions archived · Latest: [`v0.0.2`](https://github.com/flarchive/mohist-flarum-sodion-auth/tree/archive/v0.0.2) · License: `Apache-2.0`
+**2** versions archived · Latest: [`v0.0.2`](https://github.com/flarchive/mohist-flarum-sodion-auth/tree/archive/v0.0.2) · License: `Apache-2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2020-10-10 | — | [Browse](https://github.com/flarchive/mohist-flarum-sodion-auth/tree/archive/v0.0.1) |
+| `v0.0.2` | 2021-05-03 | — | [Browse](https://github.com/flarchive/mohist-flarum-sodion-auth/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/mohist-flarum-sodion-auth.json](https://github.com/flarchive/archive-index/blob/main/packages/mohist-flarum-sodion-auth.json)
 
